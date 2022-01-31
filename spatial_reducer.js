@@ -1,4 +1,8 @@
 // AUTOMATICALLY GENERATED: imported vars from saved link.
+
+// Code Link
+// https://code.earthengine.google.co.in/13fa8e0a26585f25cb9e8ab2a61804c3
+
 var CONVERT_TO_IMPORT = (
 [{"type":"imageCollection","name":"PrecipCollection","record":{"id":"UCSB-CHG/CHIRPS/PENTAD"}},{"type":"table","name":"WorldBnd","record":{"id":"USDOS/LSIB/2013"}},{"type":"table","name":"US_States","record":{"id":"TIGER/2018/States"}}])
 
